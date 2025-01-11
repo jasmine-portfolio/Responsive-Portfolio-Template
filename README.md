@@ -2,6 +2,8 @@
 
 **Responsive Portfolio Template** is a modern, and fully customizable HTML/CSS template designed for anyone looking to create a professional online portfolio. This template allows you to effectively showcase your skills, highlight your projects, and present your expertise in a visually appealing and compelling way.
 
+View Responsive Portfolio Template click [here](https://jasmine-portfolio.github.io/Responsive-Portfolio-Template/)
+
 ## 🚀 **Features**
 
 - **Fully Responsive**: Adapts seamlessly to mobile, tablet, and desktop views.
